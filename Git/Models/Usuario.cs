@@ -7,5 +7,8 @@ namespace Git.Models
 {
     public class Usuario
     {
+        public int MyProperty { get; set; }
+
+
     }
 }
